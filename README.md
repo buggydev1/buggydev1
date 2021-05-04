@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 [![buggydev1's GitHub stats](https://github-readme-stats.vercel.app/api?username=buggydev1)](https://github.com/yourUserName/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buggydev&layout=compact)](https://github.com/yourUserName/github-readme-stats)
