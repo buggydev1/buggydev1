@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![buggydev1's GitHub stats](https://github-readme-stats.vercel.app/api?username=buggydev1)](https://github.com/yourUserName/github-readme-stats)
+[![buggydev1's GitHub stats](https://github-readme-stats.vercel.app/api?username=buggydev1)](https://github.com/buggydev1/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buggydev1&layout=compact)](https://github.com/yourUserName/github-readme-stats)
